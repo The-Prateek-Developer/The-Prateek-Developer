@@ -18,15 +18,15 @@
 ## 🌐 CONNECT_WITH_ME
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-link">
+  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/prateek--mishra/)">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:the.prateek.developer@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
   
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/The-Prateek-Developer">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
   
