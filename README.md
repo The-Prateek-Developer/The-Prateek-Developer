@@ -1,62 +1,85 @@
 <div align="center">
 
-# 🌌 Welcome to My Digital Universe
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:050816,25:0f0c29,50:302b63,75:24243e,100:00f7ff&text=ACCESS%20GRANTED&fontSize=55&fontColor=00F7FF&animation=twinkling&fontAlignY=38&desc=Initializing%20Cyberpunk%20Portfolio...&descAlignY=58&descAlign=50" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&lines=I'm+Prateek+Mishra;Full+Stack+Developer;AI%2FML+Architect;Python+Developer;Solving+Complex+Problems+with+AI" alt="Typing SVG" />
+# ⚡ PRATEEK_MISHRA.exe
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00F7FF&background=00000000&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER;AI%2FML+ARCHITECT;PYTHON+ENGINEER;COMPUTER+VISION+EXPLORER;BUILDING+THE+FUTURE+WITH+AI" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00ff99?style=for-the-badge&logo=matrix&logoColor=black"/>
+<img src="https://img.shields.io/badge/SYSTEM-CYBERPUNK-ff00ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_MODE-ACTIVE-00e5ff?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+
+---
+
+## 🌐 CONNECT_WITH_ME
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-link">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/your-link">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  
+  <a href="mailto:yourmail@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
   </a>
+  
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  </a>
+  
   <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF4B4B?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.icons8.com/fluency/96/domain.png" height="50"/>
   </a>
 </p>
 
 ---
 
-### 🧬 The Stack Trace
+# 🧠 SYSTEM_TERMINAL
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-glow&hide_border=true" width="45%" /> <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=vision-glow&hide_border=true" width="48%" />
+<div align="left">
 
-</div>
+```bash
+┌──(root㉿prateek)-[~/cybercore]
+└─$ whoami
 
----
+> Prateek Mishra
+> Full Stack Developer
+> AI/ML Engineer
+> Technical Intrapreneur
 
-### 🛠️ Expertise & Armory
+┌──(root㉿prateek)-[~/cybercore]
+└─$ locate current_sector
 
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <b>🌐 Full Stack</b><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,express,mongodb,mysql" />
-    </td>
-    <td align="center" width="33%">
-      <b>🤖 AI / ML</b><br/>
-      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,scikitlearn" />
-    </td>
-    <td align="center" width="33%">
-      <b>🚀 Tools & DevOps</b><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode" />
-    </td>
-  </tr>
-</table>
+> Noida, India 🇮🇳
+> Rus Education HQ
 
----
+┌──(root㉿prateek)-[~/cybercore]
+└─$ cat mission.txt
 
-### 🌟 About Me
-```yaml
-identity:
-  name: Prateek Mishra
-  location: India 🇮🇳
-  status: Crafting intelligent solutions at Rus Education
+> Building futuristic AI-powered systems
+> Solving real-world problems with automation
+> Exploring Generative AI + Computer Vision
 
-mission: 
-  - Bridging the gap between robust Full Stack architecture and AI.
-  - Engineering "Smart" systems that automate the mundane.
-  - Constant learning and pushing the boundaries of Computer Vision.
+┌──(root㉿prateek)-[~/cybercore]
+└─$ skills --load
 
-fun_fact: "I speak Python fluently, but I also make a guitar sing! 🎸"
+[████████████████████] React.js
+[████████████████████] Next.js
+[████████████████████] Python
+[████████████████████] AI / ML
+[████████████████████] Deep Learning
+[████████████████████] Node.js
+[████████████████████] MongoDB
+[████████████████████] Docker
+
+┌──(root㉿prateek)-[~/cybercore]
+└─$ fun_fact.sh
+
+"By day I train AI models 🤖
+ By night I tune guitar strings 🎸"
+
+┌──(root㉿prateek)-[~/cybercore]
+└─$ █
